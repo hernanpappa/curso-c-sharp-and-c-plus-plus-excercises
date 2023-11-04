@@ -1,0 +1,24 @@
+EJERCICIO 1
+-Disenar la estructura de datos (uzando registros)y obtener el algoritmo que nos permita almacenar nombres, 
+apellidos y D.N.I de 10 personas. Ordenar los datos a partir del D.N.I
+
+
+
+EJERCICIO 2
+El encargado de una empresa, desea controlar los gastos de cada uno de sus 12 empleados en concepto de 
+disquetes, papel, viajes y telefono. Para ello necesita un programa que les avise de:
+
+a)Que trabajador usa mas el telefono?
+b)Hacer un listado por pantalla de los programadores que han gastado mas de 15 euros en papel.
+c)Cuales son los 3 programadores que menor viajes realizan?
+d Cantidad total del gasto en disquetes asi como la cantidad media para todos los programadores.
+
+Cada uno de los apartados anteriores se debe realizar en forma de procedimiento. En todos los apartados 
+anteriores se debe vizualizar en nombre de los trabajadores.
+
+
+
+EJERCICIO 3
+Una empresa tiene 10 almances (cada 1 con su nombre correspondiente) y necesita crear un algoritmo 
+que lea las ventas mesuales de cada uno de los mismos, calcule la media de ventas mensual de todos 
+los almacenes y obtenga un listado de los almacenes cuyas ventas mensuales son superiores ala media
